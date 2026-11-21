@@ -18,3 +18,7 @@ npx skills add IntrinsicAlpha/skills
 ```
 
 [Stock research platform](https://intrinsicalpha.com) · [MCP setup](https://intrinsicalpha.com/mcp-server) · [Contact](https://intrinsicalpha.com/contact)
+
+## Social media
+
+[Threads](https://www.threads.net/@intrinsicalphacom) · [X](https://x.com/intrinsicalpha_) · [Facebook](https://www.facebook.com/profile.php?id=61566562104650) · [LinkedIn](https://www.linkedin.com/company/105814273) · [Telegram](https://t.me/intrinsicalpha)
